@@ -34,4 +34,4 @@
 
 ## Let's Connect 🚀
 
-<p align=“left”> <a href=“https://twitter.com/Samia8Asim”><img src=“https://img.shields.io/badge/-Samia%20Asim-1877F2?style=flat&logo=Twitter&logoColor=white”/></a> <a href=“https://www.linkedin.com/in/samia-asim-844479202”><img src=“https://img.shields.io/badge/-Samia%20Asim-1877F2?style=flat&logo=Linkedin&logoColor=white”/></a> </p>
+<p align=“left”> <a href=“https://www.linkedin.com/in/samia-asim-844479202”><img src=“https://img.shields.io/badge/-Samia%20Asim-1877F2?style=flat&logo=Linkedin&logoColor=white”/></a> <a href=“https://x.com/SamiaAsim25?s=09”><img src=“https://img.shields.io/badge/-Samia%20Asim-1877F2?style=flat&logo=Twitter&logoColor=white”/></a> </p>
