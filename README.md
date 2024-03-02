@@ -1,4 +1,4 @@
-!100MDevs_Blog_1200x627_v3)
+![](https://github.com/Samia8Asim/Samia8Asim/blob/main/100MDevs_Blog_1200x627_v3.gif)
 
 # Hi there, I'm Samia Asim 👋
 
