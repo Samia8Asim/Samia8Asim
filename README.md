@@ -28,12 +28,10 @@
 
 ## My GitHub Stats 🚀
 
-!Samia's GitHub stats
+[![Samia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samia8Asim)](https://github.com/Samia8Asim/github-readme-stats)
 
-!Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samia8Asim&layout=donut-vertical)](https://github.com/Samia8Asim/github-readme-stats)
 
 ## Let's Connect 🚀
 
-<p align="left">
-<a href="[https://twitter.com/Samia8Asim](https://x.com/SamiaAsim25?s=09)"><img src="https://img.shields.io/badge/-Samia%20Asim-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/samia-asim-123456789/](https://www.linkedin.com/in/samia-asim-844479202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)https://www.linkedin.com/in/samia-asim-844479202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Samia%20Asim-1877F2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<p align=“left”> <a href=“https://twitter.com/Samia8Asim”><img src=“https://img.shields.io/badge/-Samia%20Asim-1877F2?style=flat&logo=Twitter&logoColor=white”/></a> <a href=“https://www.linkedin.com/in/samia-asim-844479202”><img src=“https://img.shields.io/badge/-Samia%20Asim-1877F2?style=flat&logo=Linkedin&logoColor=white”/></a> </p>
