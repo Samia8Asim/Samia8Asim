@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+    steps:
+      - uses: actions/checkout@v2
+      - uses: anuraghazra/github-readme-stats@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          readme: README.md
+          output: README.md
+          username: Samia8Asim
+          theme: radical
+          show_icons: true
+          layout: compact
