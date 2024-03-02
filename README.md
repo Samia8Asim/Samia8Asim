@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **alx software engineering program projects**
 - 🌱 I’m currently learning **Data Science and Software Engineering**
-- 👯 I’m looking to collaborate on **open source projects related to AI, ML, Data Science and arduino**
+- 😆 I’m looking to collaborate on **open source projects related to AI, ML, Data Science and arduino**
 - 🤔 I’m looking for help with **improving my coding skills and learning new technologies**
 - 📫 How to reach me: **samia2003.8@gmail.com**
 - ⚡ Fun fact: **I love reading books and playing chess**
