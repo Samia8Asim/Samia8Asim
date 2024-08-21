@@ -1,7 +1,7 @@
 ![](https://github.com/Samia8Asim/Samia8Asim/blob/main/100MDevs_Blog_1200x627_v3.gif)
 
 <h1 align="center">Hi 👋, I'm Samia</h1>
-<h3 align="center">I'm an Electrical & electronic engineering student at University of Khartoum. Interested in AI ,Machine learning and Data science. Passionate about management , currently doing alx software engineering program.</h3>
+<h3 align="center">I'm an Electrical & electronic engineering student at University of Khartoum. Interested in AI ,Machine learning and Data science. Passionate about management.</h3>
 
 ## About Me 🚀
 
