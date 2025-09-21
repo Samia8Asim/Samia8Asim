@@ -1,15 +1,15 @@
 ![](https://github.com/Samia8Asim/Samia8Asim/blob/main/100MDevs_Blog_1200x627_v3.gif)
 
 <h1 align="center">Hi 👋, I'm Samia</h1>
-<h3 align="center">I'm an Electrical & electronic engineering student at University of Khartoum. Interested in AI ,Machine learning and Data science. Passionate about management.</h3>
+<h3 align="center">I'm an Electrical & electronic engineering student at University of Khartoum. Interested in embedded systems. Passionate about management.</h3>
 
 ## About Me 🚀
 
-- 🔭 I’m currently working on **alx software engineering program projects**
-- 🌱 I’m currently learning **Data Science and Software Engineering**
-- 😆 I’m looking to collaborate on **open source projects related to AI, ML, Data Science and arduino**
+- 🌱 I’m currently exploring new areas in Electrical and Electronic Engineering  
+- 📚 I enjoy learning and expanding my knowledge in technology and beyond  
+- 😆 I’m looking to collaborate on **open source projects related to arduino and embedded systems**
 - 🤔 I’m looking for help with **improving my coding skills and learning new technologies**
-- 📫 How to reach me: **samia2003.8@gmail.com**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samia-asim-844479202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - ⚡ Fun fact: **I love reading books and playing chess**
 
 
